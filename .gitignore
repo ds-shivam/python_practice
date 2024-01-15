@@ -1,0 +1,35 @@
+MANIFEST
+build
+dist
+_build
+
+
+ashwathama/data/*.csv
+
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.tox
+.DS_Store
+\#*#
+.#*
+.cache
+.coverage
+*.swp
+.pytest_cache
+.python-version
+.venv*/
+venv*/
+.mypy_cache/
+
+# jetbrains ide stuff
+*.iml
+.idea/
+
+# vscode ide stuff
+*.code-workspace
+.history
+.vscode
